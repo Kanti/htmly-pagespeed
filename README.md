@@ -11,4 +11,5 @@ BUT it reaches 100% at `Google PageSpeed Insights`.
 - The Page: <a href="https://kanti.de" target="_blank">Live Demo</a>
 
 (Does not support any of the comment systems used in HTMLy.)<br>
-(You must have HTMLy version >= 2.3)
+(You must have HTMLy version >= 2.3)<br>
+(DO NOT USE IT IF YOU DO NOT KNOW HOW IT WORKS.)

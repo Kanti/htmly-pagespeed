@@ -600,6 +600,7 @@ ul li, ol li{
 
 #sidebar .recent li {
     list-style-type: circle;
+    margin: 0 0 .75em;
 }
 
 .social a {

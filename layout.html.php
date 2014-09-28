@@ -51,6 +51,10 @@
 						<h3>Follow</h3>
 						<?php echo social("pagespeed/img/") ?>
 					</div>
+					<div class="recent">
+						<h3>Recent Posts</h3>
+						<?php echo recent() ?>
+					</div>
 					<div class="archive">
 						<?php echo archive_list()?>
 					</div>

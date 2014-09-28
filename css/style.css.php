@@ -590,8 +590,16 @@ ul li, ol li{
     margin-bottom: 0.75em;
 }
 
-.about, .social, .archive, .comments, .tagcloud {
+.about, .social, .archive, .comments, .tagcloud, .recent {
     margin-bottom:2em;
+}
+
+#sidebar .recent ul {
+    margin: 0.25em 0 0.25em 1.3em;
+}
+
+#sidebar .recent li {
+    list-style-type: circle;
 }
 
 .social a {

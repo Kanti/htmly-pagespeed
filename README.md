@@ -5,6 +5,7 @@ A [HTMLy](http://htmly.com) Theme - based on themes/logs.
 
 It looks Identical to themes/logs,<br>
 BUT it reaches 100% at `Google PageSpeed Insights`.
+And <a href="https://www.google.com/webmasters/tools/mobile-friendly/?url=kanti.de" target="_blank">Mobile Frendly</a>
 
 - Test it here: <a href="https://developers.google.com/speed/pagespeed/insights/?url=kanti.de&tab=desktop" target="_blank">PageSpeed Demo Desktop</a><br>
 - Test it here: <a href="https://developers.google.com/speed/pagespeed/insights/?url=kanti.de&tab=mobile" target="_blank">PageSpeed Demo Mobile</a><br>
